@@ -2,3 +2,7 @@
   link: /
 - name: About
   link: /about.md
+- name: People
+  link: /people.html
+- name: News
+  link: /news.html

@@ -22,11 +22,11 @@ Andrew Young is an Associate Professor in the School of Physics at the Universit
 
 ## Group members
 
-| Name                      | Position                              |
-| ------------------------- | ------------------------------------- |
-| Fergus Baker              | PhD student (primary supervisor)      |
-| Gloria Raharimbolamena    | PhD student (primary supervisor)      |
-| Tom Higginson             | PhD student (co-supervisor)           |
-| Yara Simango              | PhD student (co-supervisor)           |
+| Name | Position |
+| --- | --- |
+| [Fergus Baker](https://research-information.bris.ac.uk/en/persons/fergus-baker) | PhD student (primary supervisor) |
+| [Gloria Raharimbolamena](https://research-information.bris.ac.uk/en/persons/gloria-raharimbolamena) | PhD student (primary supervisor) |
+| [Tom Higginson](https://research-information.bris.ac.uk/en/persons/tom-s-higginson) | PhD student (co-supervisor) |
+| [Yara Simango](https://research-information.bris.ac.uk/en/persons/yara-h-simango) | PhD student (co-supervisor) |
 
 I am also secondary supervisor for students who are not working on extragalactic astronomy.

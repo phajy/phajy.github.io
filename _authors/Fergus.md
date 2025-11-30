@@ -1,9 +1,8 @@
 ---
 short_name: Fergus
 name: Fergus Baker
-position: PhD student
+position: Postdoc at Newcastle
 ---
-Fergus is a PhD student working on numerical models of relativistic accretion flows.
+Fergus is a former PhD student who worked on numerical models of relativistic accretion flows. He is now a Postdoctoral Research Associate at the University of Newcastle.
 
-- 🔗 [Fergus's University of Bristol homepage](https://research-information.bris.ac.uk/en/persons/fergus-baker)
-- 🔗 [Fergus's GitHub page](https://github.com/fjebaker)
+- 🔗 [Fergus's personal homepage](https://cosroe.com/)

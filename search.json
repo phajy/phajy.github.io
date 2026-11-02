@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Andrew Young",
+    "section": "Latest news",
+    "text": "Latest news\n\n\n\n\n\nFergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis\n\n\n\nFormer PhD student Dr Fergus Baker has been awarded Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\nWelcome to Yimin Huang\n\n\n\nYimin Huang joins the group as a PhD student.\n\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\n\n\nQuarto lecture notes\n\n\n\nHow I prepare lecture notes in HTML and PDF with Quarto.\n\n\n\n\n\n\nMay 4, 2024\n\n\n\n\n\nNo matching items\n\nAll news →"
+  },
+  {
+    "objectID": "index.html#group",
+    "href": "index.html#group",
+    "title": "Andrew Young",
+    "section": "Group",
+    "text": "Group\nCurrent members:\n\nDarius Michienzi — PhD\nElizabeth Morgan — PhD; co-supervised with colleague at Cardiff\nGloria Raharimbolamena — PhD; University Scholarship\nShashanth Sriramanathan — PhD; EU Doctoral Network\nTom Higginson — PhD; co-supervisor\nYimin Huang — PhD\n\nPeople →"
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html",
+    "href": "news/quarto-lecture-notes/index.html",
+    "title": "Quarto lecture notes",
+    "section": "",
+    "text": "Several people have asked how I prepare lecture notes in HTML and PDF. Here’s an overview of the workflow. This is slightly different from how I do it day to day because I use a “book” project rather than a “website” project, but the principles are the same.\nHere’s an example site."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#set-up-an-empty-github-repository",
+    "href": "news/quarto-lecture-notes/index.html#set-up-an-empty-github-repository",
+    "title": "Quarto lecture notes",
+    "section": "Set up an empty GitHub repository",
+    "text": "Set up an empty GitHub repository\nStart with a blank repository containing a README.md and a LICENSE. I’ve used the MIT license. Alternatively, create the Quarto project first and push everything afterwards.\nThe example repository is andys-quarto-example."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#install-quarto",
+    "href": "news/quarto-lecture-notes/index.html#install-quarto",
+    "title": "Quarto lecture notes",
+    "section": "Install Quarto",
+    "text": "Install Quarto\nFollow the Quarto get-started instructions. On a Mac with Homebrew: brew install --cask quarto."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#editor-setup",
+    "href": "news/quarto-lecture-notes/index.html#editor-setup",
+    "title": "Quarto lecture notes",
+    "section": "Editor setup",
+    "text": "Editor setup\nInstall the Quarto VS Code / Cursor extension."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#start-a-quarto-website-project",
+    "href": "news/quarto-lecture-notes/index.html#start-a-quarto-website-project",
+    "title": "Quarto lecture notes",
+    "section": "Start a Quarto website project",
+    "text": "Start a Quarto website project\nYou can use “Quarto: Create New Project” and choose “Website Project”, or add a few files by hand:\n\n_quarto.yml — project configuration\nindex.md — home page\nabout.md — another page\nstyles.css — optional styling\n\nSee the files in the example repository."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#publishing",
+    "href": "news/quarto-lecture-notes/index.html#publishing",
+    "title": "Quarto lecture notes",
+    "section": "Publishing",
+    "text": "Publishing\nFollow the Quarto GitHub Pages instructions. For a simple start you can render to docs/ and deploy from that folder; a GitHub Action is usually better for keeping the site up to date automatically.\nPublished example: https://phajy.github.io/andys-quarto-example/."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#add-content",
+    "href": "news/quarto-lecture-notes/index.html#add-content",
+    "title": "Quarto lecture notes",
+    "section": "Add content",
+    "text": "Add content\nHeadings, figures, and mathematics follow standard Quarto Markdown. For example:\n## Parallel-transport and geodesics\n\n![Parallel transport of a vector.](parallel_transport.png){width=300 #fig-parallel-transport}\n\nWe can use parallel transport to construct *geodesics*:\n\n$$\n\\begin{aligned}\n    \\pmb{\\nabla}_{\\vec u} {\\vec u} &= 0\n\\end{aligned}\n$$\nMore in the Quarto Markdown documentation."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#questions",
+    "href": "news/quarto-lecture-notes/index.html#questions",
+    "title": "Quarto lecture notes",
+    "section": "Questions",
+    "text": "Questions\nIf you have tips or questions, please get in touch."
+  },
+  {
+    "objectID": "news/fergus-thesis-prize/index.html",
+    "href": "news/fergus-thesis-prize/index.html",
+    "title": "Fergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis",
+    "section": "",
+    "text": "Congratulations to Dr Fergus Baker on receiving the University of Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\nDr Fergus Baker\n\n\nFergus’s thesis, General relativistic effects in black hole X-ray coronal models, was supervised by me and Dr Sotiria Fotopoulou. His examiners highlighted the novel physical insights, mathematical and computational techniques, and the software package he released for the community.\nYou can read his thesis here: General relativistic effects in black hole X-ray coronal models. The source code is also there so you can see how the figures were made. The thesis is a work of art and an excellent introduction to the field. Well done Fergus, we’re very proud of you!\nFergus is now a postdoctoral researcher at Durham."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Professor in the School of Physics at the University of Bristol. I completed my PhD at Cambridge with Andy Fabian on X-ray studies of accreting black holes, then held Chandra postdoctoral positions at the University of Maryland (with Andrew Wilson) and MIT (with Claude Canizares). I joined Bristol in 2007."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "Research",
+    "text": "Research\nMy research interests include numerical and observational astrophysics focused on accreting black holes. The numerical work involves the development of general relativistic models of the time-dependent spectra of accretion flows with different disc, corona, and spacetime geometries. The observational work concerns the analysis of X-ray data from accreting black holes using telescopes such as XMM-Newton, Chandra, and NuSTAR.\nNotes on relativistic accretion discs and related software are collected in the project wiki."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: Andy.Young at bristol dot ac dot uk\nPost: HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8 1TL, UK\nORCID: orcid.org/0000-0003-3626-9151\nUniversity profile: University of Bristol homepage"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
@@ -11,7 +109,7 @@
     "href": "people.html#current-group-members",
     "title": "People",
     "section": "Current group members",
-    "text": "Current group members\n\nYimin Huang — PhD\nShashanth Sriramanathan — PhD; EU Doctoral Network\nElizabeth Morgan — PhD; co-supervised with colleague at Cardiff\nDarius Michienzi — PhD\nTom Higginson — PhD; co-supervisor\nGloria Raharimbolamena — PhD; University Scholarship\n\nSecondary supervisor for three other students, but in a more limited capacity."
+    "text": "Current group members\n\nDarius Michienzi — PhD\nElizabeth Morgan — PhD; co-supervised with colleague at Cardiff\nGloria Raharimbolamena — PhD; University Scholarship\nShashanth Sriramanathan — PhD; EU Doctoral Network\nTom Higginson — PhD; co-supervisor\nYimin Huang — PhD\n\nSecondary supervisor for three other students, but in a more limited capacity."
   },
   {
     "objectID": "people.html#former-group-members",
@@ -19,20 +117,6 @@
     "title": "People",
     "section": "Former group members",
     "text": "Former group members\n\nDr Fergus Baker — PhD → postdoc at Durham\nDr Isobel Romero-Shaw — Postdoc → Ernest Rutherford Fellow at Cardiff\nDr Robbie Webbe — PhD → postdoc at Toulouse\nDr Steff Hancock — PhD → mature student; working for Ministry of Defence\nBrian O’Mathuna — Masters → working in industry\nGeorge Presland — Masters → working in industry\nDr Gibwa Musoke — PhD → prize postdoc at University of Toronto\nDr Duncan Smith — PhD → mature student; retired\nTom MacCourt — Masters\nDr Poemwai Chainakun — PhD → faculty, Suranaree University, Thailand\nDr Emenike Nwaokoro — PhD (co-supervised) → faculty, Abia University, Nigeria\nMarina Papadopoulou — Masters (co-supervised) → working in industry\nDr Kian Momtahan — PhD → working in industry"
-  },
-  {
-    "objectID": "news/fergus-thesis-prize/index.html",
-    "href": "news/fergus-thesis-prize/index.html",
-    "title": "Fergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis",
-    "section": "",
-    "text": "Congratulations to Dr Fergus Baker on receiving the University of Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\nDr Fergus Baker\n\n\nFergus’s thesis, General relativistic effects in black hole X-ray coronal models, was supervised by me and Dr Sotiria Fotopoulou. His examiners highlighted the novel physical insights, mathematical and computational techniques, and the software package he released for the community.\nYou can read his thesis here: General relativistic effects in black hole X-ray coronal models. The source code is also there so you can see how the figures were made. The thesis is a work of art and an excellent introduction to the field. Well done Fergus, we’re very proud of you!\nFergus is now a postdoctoral researcher at Durham."
-  },
-  {
-    "objectID": "news/welcome-yimin-huang/index.html",
-    "href": "news/welcome-yimin-huang/index.html",
-    "title": "Welcome to Yimin Huang",
-    "section": "",
-    "text": "Welcome to Yimin Huang, who is joining the group as a PhD student.\n\n\n\nYimin Huang\n\n\nWe’re looking forward to working together on black hole accretion research at Bristol."
   },
   {
     "objectID": "publications.html",
@@ -238,101 +322,17 @@
     "text": "1998\n\nIron line profiles including emission from within the innermost stable orbit of a black hole accretion disc\nA. J. Young, R. R. Ross, and A. C. Fabian\nMonthly Notices of the Royal Astronomical Society"
   },
   {
-    "objectID": "index.html#latest-news",
-    "href": "index.html#latest-news",
-    "title": "Andrew Young",
-    "section": "Latest news",
-    "text": "Latest news\n\n\n\n\n\nFergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis\n\n\nFormer PhD student Dr Fergus Baker has been awarded Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\nWelcome to Yimin Huang\n\n\nYimin Huang joins the group as a PhD student.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\n\n\nQuarto lecture notes\n\n\nHow I prepare lecture notes in HTML and PDF with Quarto.\n\n\n\n\n\nMay 4, 2024\n\n\n\n\n\nNo matching items\n\nAll news →"
-  },
-  {
-    "objectID": "index.html#group",
-    "href": "index.html#group",
-    "title": "Andrew Young",
-    "section": "Group",
-    "text": "Group\nCurrent members:\n\nYimin Huang — PhD\nShashanth Sriramanathan — PhD; EU Doctoral Network\nElizabeth Morgan — PhD; co-supervised with colleague at Cardiff\nDarius Michienzi — PhD\nTom Higginson — PhD; co-supervisor\n\nPeople →"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "news/welcome-yimin-huang/index.html",
+    "href": "news/welcome-yimin-huang/index.html",
+    "title": "Welcome to Yimin Huang",
     "section": "",
-    "text": "I am a Professor in the School of Physics at the University of Bristol. I completed my PhD at Cambridge with Andy Fabian on X-ray studies of accreting black holes, then held Chandra postdoctoral positions at the University of Maryland (with Andrew Wilson) and MIT (with Claude Canizares). I joined Bristol in 2007."
-  },
-  {
-    "objectID": "about.html#research",
-    "href": "about.html#research",
-    "title": "About",
-    "section": "Research",
-    "text": "Research\nMy research interests include numerical and observational astrophysics focused on accreting black holes. The numerical work involves the development of general relativistic models of the time-dependent spectra of accretion flows with different disc, corona, and spacetime geometries. The observational work concerns the analysis of X-ray data from accreting black holes using telescopes such as XMM-Newton, Chandra, and NuSTAR.\nNotes on relativistic accretion discs and related software are collected in the project wiki."
-  },
-  {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: Andy.Young at bristol dot ac dot uk\nPost: HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8 1TL, UK\nORCID: orcid.org/0000-0003-3626-9151\nUniversity profile: University of Bristol homepage"
+    "text": "Welcome to Yimin Huang, who is joining the group as a PhD student.\n\n\n\nYimin Huang\n\n\nWe’re looking forward to working together on black hole accretion research at Bristol."
   },
   {
     "objectID": "news/index.html",
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Fergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis\n\n\nFormer PhD student Dr Fergus Baker has been awarded Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\nWelcome to Yimin Huang\n\n\nYimin Huang joins the group as a PhD student.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\n\n\nQuarto lecture notes\n\n\nHow I prepare lecture notes in HTML and PDF with Quarto.\n\n\n\n\n\nMay 4, 2024\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html",
-    "href": "news/quarto-lecture-notes/index.html",
-    "title": "Quarto lecture notes",
-    "section": "",
-    "text": "Several people have asked how I prepare lecture notes in HTML and PDF. Here’s an overview of the workflow. This is slightly different from how I do it day to day because I use a “book” project rather than a “website” project, but the principles are the same.\nHere’s an example site."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#set-up-an-empty-github-repository",
-    "href": "news/quarto-lecture-notes/index.html#set-up-an-empty-github-repository",
-    "title": "Quarto lecture notes",
-    "section": "Set up an empty GitHub repository",
-    "text": "Set up an empty GitHub repository\nStart with a blank repository containing a README.md and a LICENSE. I’ve used the MIT license. Alternatively, create the Quarto project first and push everything afterwards.\nThe example repository is andys-quarto-example."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#install-quarto",
-    "href": "news/quarto-lecture-notes/index.html#install-quarto",
-    "title": "Quarto lecture notes",
-    "section": "Install Quarto",
-    "text": "Install Quarto\nFollow the Quarto get-started instructions. On a Mac with Homebrew: brew install --cask quarto."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#editor-setup",
-    "href": "news/quarto-lecture-notes/index.html#editor-setup",
-    "title": "Quarto lecture notes",
-    "section": "Editor setup",
-    "text": "Editor setup\nInstall the Quarto VS Code / Cursor extension."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#start-a-quarto-website-project",
-    "href": "news/quarto-lecture-notes/index.html#start-a-quarto-website-project",
-    "title": "Quarto lecture notes",
-    "section": "Start a Quarto website project",
-    "text": "Start a Quarto website project\nYou can use “Quarto: Create New Project” and choose “Website Project”, or add a few files by hand:\n\n_quarto.yml — project configuration\nindex.md — home page\nabout.md — another page\nstyles.css — optional styling\n\nSee the files in the example repository."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#publishing",
-    "href": "news/quarto-lecture-notes/index.html#publishing",
-    "title": "Quarto lecture notes",
-    "section": "Publishing",
-    "text": "Publishing\nFollow the Quarto GitHub Pages instructions. For a simple start you can render to docs/ and deploy from that folder; a GitHub Action is usually better for keeping the site up to date automatically.\nPublished example: https://phajy.github.io/andys-quarto-example/."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#add-content",
-    "href": "news/quarto-lecture-notes/index.html#add-content",
-    "title": "Quarto lecture notes",
-    "section": "Add content",
-    "text": "Add content\nHeadings, figures, and mathematics follow standard Quarto Markdown. For example:\n## Parallel-transport and geodesics\n\n![Parallel transport of a vector.](parallel_transport.png){width=300 #fig-parallel-transport}\n\nWe can use parallel transport to construct *geodesics*:\n\n$$\n\\begin{aligned}\n    \\pmb{\\nabla}_{\\vec u} {\\vec u} &= 0\n\\end{aligned}\n$$\nMore in the Quarto Markdown documentation."
-  },
-  {
-    "objectID": "news/quarto-lecture-notes/index.html#questions",
-    "href": "news/quarto-lecture-notes/index.html#questions",
-    "title": "Quarto lecture notes",
-    "section": "Questions",
-    "text": "Questions\nIf you have tips or questions, please get in touch."
+    "text": "Fergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis\n\n\n\nFormer PhD student Dr Fergus Baker has been awarded Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\nWelcome to Yimin Huang\n\n\n\nYimin Huang joins the group as a PhD student.\n\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\n\n\nQuarto lecture notes\n\n\n\nHow I prepare lecture notes in HTML and PDF with Quarto.\n\n\n\n\n\n\nMay 4, 2024\n\n\n\n\n\nNo matching items"
   }
 ]

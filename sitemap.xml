@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://phajy.github.io/people.html</loc>
-    <lastmod>2026-11-02T23:40:55.461Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phajy.github.io/news/fergus-thesis-prize/index.html</loc>
-    <lastmod>2026-11-02T23:40:55.458Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phajy.github.io/news/welcome-yimin-huang/index.html</loc>
-    <lastmod>2026-11-02T23:40:55.460Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phajy.github.io/publications.html</loc>
-    <lastmod>2026-11-02T23:40:55.462Z</lastmod>
-  </url>
-  <url>
     <loc>https://phajy.github.io/index.html</loc>
-    <lastmod>2026-11-02T23:40:55.457Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phajy.github.io/about.html</loc>
-    <lastmod>2026-11-02T23:40:55.445Z</lastmod>
-  </url>
-  <url>
-    <loc>https://phajy.github.io/news/index.html</loc>
-    <lastmod>2026-11-02T23:40:55.459Z</lastmod>
+    <lastmod>2026-11-02T23:52:53.669Z</lastmod>
   </url>
   <url>
     <loc>https://phajy.github.io/news/quarto-lecture-notes/index.html</loc>
-    <lastmod>2026-11-02T23:40:55.460Z</lastmod>
+    <lastmod>2026-11-02T23:52:53.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phajy.github.io/news/fergus-thesis-prize/index.html</loc>
+    <lastmod>2026-11-02T23:52:53.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phajy.github.io/about.html</loc>
+    <lastmod>2026-11-02T23:52:53.667Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phajy.github.io/people.html</loc>
+    <lastmod>2026-11-02T23:52:53.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phajy.github.io/publications.html</loc>
+    <lastmod>2026-11-02T23:52:53.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phajy.github.io/news/welcome-yimin-huang/index.html</loc>
+    <lastmod>2026-11-02T23:52:53.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://phajy.github.io/news/index.html</loc>
+    <lastmod>2026-11-02T23:52:53.670Z</lastmod>
   </url>
 </urlset>

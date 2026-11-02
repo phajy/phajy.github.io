@@ -1,0 +1,52 @@
+name: Monthly site update nudge
+
+on:
+  schedule:
+    # First Monday of the rough month window: 09:00 UTC on the 1st
+    - cron: "0 9 1 * *"
+  workflow_dispatch:
+
+jobs:
+  open-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Create monthly checklist issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = `Site update checklist — ${new Date().toISOString().slice(0, 7)}`;
+            const body = [
+              "Monthly reminder to keep [phajy.github.io](https://phajy.github.io) current.",
+              "",
+              "## Checklist",
+              "- [ ] Update `data/people.yml` (arrivals, departures, roles, links)",
+              "- [ ] Add a short News post if anything happened (papers, talks, prizes, students)",
+              "- [ ] Skim Publications for obvious ORCID gaps",
+              "- [ ] Check About contact details still look right",
+              "",
+              "_Opened automatically by `.github/workflows/monthly-nudge.yml`._",
+            ].join("\n");
+
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: "open",
+              labels: "site-maintenance",
+              per_page: 20,
+            });
+            const existing = issues.data.find((issue) => issue.title === title);
+            if (existing) {
+              core.info(`Issue already open: ${existing.html_url}`);
+              return;
+            }
+
+            const created = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels: ["site-maintenance"],
+            });
+            core.info(`Opened ${created.data.html_url}`);

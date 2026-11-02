@@ -1,0 +1,13 @@
+---
+title: "Welcome to Yimin Huang"
+date: 2026-09-01
+author: Andrew Young
+description: "Yimin Huang joins the group as a PhD student."
+categories: [news, group]
+---
+
+Welcome to **Yimin Huang**, who is joining the group as a PhD student.
+
+![Yimin Huang](../../assets/images/yimin-huang.jpg){fig-alt="Portrait of Yimin Huang" width="320" fig-align="left"}
+
+We’re looking forward to working together on black hole accretion research at Bristol.

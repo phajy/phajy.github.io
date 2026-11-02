@@ -1,0 +1,7 @@
+---
+title: Publications
+date: last-modified
+date-format: "D MMMM YYYY"
+---
+
+{{< include _partials/publications-list.md >}}

@@ -1,0 +1,92 @@
+---
+title: "Andrew Young"
+pagetitle: "Andrew Young"
+page-layout: custom
+toc: false
+include-after-body:
+  text: |
+    <style>
+      #title-block-header { display: none; }
+      #quarto-content > * { padding-left: 0; padding-right: 0; }
+      main.content { padding-top: 0; padding-bottom: 0; }
+    </style>
+listing:
+  id: home-news
+  contents:
+    - news/fergus-thesis-prize
+    - news/welcome-yimin-huang
+    - news/quarto-lecture-notes
+  sort: "date desc"
+  type: default
+  max-items: 3
+  fields: [date, title, description]
+  sort-ui: false
+  filter-ui: false
+  categories: false
+---
+
+::: {.hero}
+
+```{=html}
+<img src="assets/images/pictor_a_xray.jpg" class="hero-image" alt="Chandra X-ray image of the radio galaxy Pictor A, showing a jet stretching from the nucleus to a distant hot spot">
+```
+
+::: {.hero-inner}
+::: {.hero-kicker}
+Professor of Astrophysics · University of Bristol
+:::
+
+# Andrew Young
+
+::: {.hero-lead}
+Numerical and observational studies of accreting black holes — from general
+relativistic spectral models to X-ray observations.
+:::
+
+::: {.hero-actions}
+[About](about.qmd){.primary}
+[Publications](publications.qmd){.secondary}
+[Group](people.qmd){.secondary}
+[ORCID](https://orcid.org/0000-0003-3626-9151){.secondary}
+:::
+
+::: {.hero-credit}
+Pictor A · Chandra X-ray Observatory · NASA/UMD/A. Wilson et al.
+:::
+:::
+:::
+
+::: {.home-below}
+::: {.intro-row}
+```{=html}
+<img src="assets/images/andrew-portrait.jpg" class="portrait-chip" width="900" height="900" alt="Portrait of Professor Andrew Young">
+```
+
+::: {.intro-copy}
+Professor in the School of Physics at the University of Bristol. Research on black hole accretion, X-ray spectroscopy, and general relativistic models of discs and coronae.
+:::
+:::
+
+::: {.home-panels}
+::: {.section-block}
+## Latest news
+
+:::{#home-news}
+:::
+
+[All news →](news/index.qmd)
+:::
+
+::: {.section-block}
+## Group
+
+{{< include _partials/people-teaser.md >}}
+
+[People →](people.qmd)
+:::
+:::
+
+::: {.section-block .last-updated}
+{{< include _partials/last-updated.md >}}
+:::
+:::

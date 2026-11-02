@@ -1,0 +1,72 @@
+---
+title: "Quarto lecture notes"
+date: 2024-05-04
+author: Andrew Young
+description: "How I prepare lecture notes in HTML and PDF with Quarto."
+categories: [news, teaching]
+---
+
+Several people have asked how I prepare lecture notes in HTML and PDF. Here’s an overview of the workflow. This is *slightly* different from how I do it day to day because I use a “book” project rather than a “website” project, but the principles are the same.
+
+Here’s an [example site](https://phajy.github.io/andys-quarto-example/geodesics.html).
+
+- I keep notes in a GitHub repository for version history and backup. This also works well for collaborative projects. You do not need to use [GitHub](https://github.com/).
+- Notes are written in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html), using [LaTeX](https://www.latex-project.org/) syntax for mathematics.
+- Markdown is rendered to HTML, PDF, and other formats with [Quarto](https://quarto.org/). Quarto can also embed executable code blocks — something I plan to use more.
+- I use [Visual Studio Code](https://code.visualstudio.com/) with the [Quarto extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto).
+- Lecture notes can be hosted on a University service or on GitHub Pages. I’ve tested GitHub Pages publishing and it works well.
+
+## Set up an empty GitHub repository
+
+Start with a blank repository containing a `README.md` and a `LICENSE`. I’ve used the MIT license. Alternatively, create the Quarto project first and push everything afterwards.
+
+The example repository is [andys-quarto-example](https://github.com/phajy/andys-quarto-example).
+
+## Install Quarto
+
+Follow the [Quarto get-started instructions](https://quarto.org/docs/get-started/). On a Mac with Homebrew: `brew install --cask quarto`.
+
+## Editor setup
+
+Install the [Quarto VS Code / Cursor extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto).
+
+## Start a Quarto website project
+
+You can use “Quarto: Create New Project” and choose “Website Project”, or add a few files by hand:
+
+- `_quarto.yml` — project configuration
+- `index.md` — home page
+- `about.md` — another page
+- `styles.css` — optional styling
+
+See the files in the [example repository](https://github.com/phajy/andys-quarto-example).
+
+## Publishing
+
+Follow the [Quarto GitHub Pages instructions](https://quarto.org/docs/publishing/github-pages.html). For a simple start you can render to `docs/` and deploy from that folder; a GitHub Action is usually better for keeping the site up to date automatically.
+
+Published example: [https://phajy.github.io/andys-quarto-example/](https://phajy.github.io/andys-quarto-example/).
+
+## Add content
+
+Headings, figures, and mathematics follow standard Quarto Markdown. For example:
+
+```markdown
+## Parallel-transport and geodesics
+
+![Parallel transport of a vector.](parallel_transport.png){width=300 #fig-parallel-transport}
+
+We can use parallel transport to construct *geodesics*:
+
+$$
+\begin{aligned}
+    \pmb{\nabla}_{\vec u} {\vec u} &= 0
+\end{aligned}
+$$
+```
+
+More in the [Quarto Markdown documentation](https://quarto.org/docs/authoring/markdown-basics.html).
+
+## Questions
+
+If you have tips or questions, please get in touch.

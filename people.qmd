@@ -1,0 +1,9 @@
+---
+title: People
+date: last-modified
+date-format: "D MMMM YYYY"
+---
+
+Members of the black hole astrophysics group at Bristol, with links to their own pages where available.
+
+{{< include _partials/people-list.md >}}

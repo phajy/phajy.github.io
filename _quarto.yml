@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: scripts/prepare_site.py
+  resources:
+    - assets/
+
+website:
+  title: "Andrew Young"
+  site-url: https://phajy.github.io
+  description: "Professor of Astrophysics at the University of Bristol. Numerical and observational studies of accreting black holes."
+  favicon: assets/images/favicon.png
+  navbar:
+    background: "#f4f7fb"
+    pinned: true
+    left:
+      - text: About
+        href: about.qmd
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: News
+        href: news/index.qmd
+      - text: Wiki
+        href: https://github.com/phajy/phajy.github.io/wiki
+    right:
+      - icon: orcid
+        href: https://orcid.org/0000-0003-3626-9151
+        aria-label: ORCID profile
+  page-footer:
+    left: "Professor Andrew Young · University of Bristol"
+    center:
+      - text: ORCID
+        href: https://orcid.org/0000-0003-3626-9151
+      - text: Wiki
+        href: https://github.com/phajy/phajy.github.io/wiki
+      - text: GitHub
+        href: https://github.com/phajy
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    email-obfuscation: javascript
+    link-external-newwindow: true
+    respect-user-color-scheme: false
+
+execute:
+  freeze: auto

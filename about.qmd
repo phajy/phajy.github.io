@@ -1,0 +1,29 @@
+---
+title: About
+date: last-modified
+date-format: "D MMMM YYYY"
+---
+
+::: {.about-layout}
+```{=html}
+<img src="assets/images/andrew-portrait.jpg" class="about-portrait" width="900" height="900" alt="Portrait of Professor Andrew Young">
+```
+
+::: {.about-copy}
+I am a Professor in the School of Physics at the University of Bristol. I completed my PhD at Cambridge with Andy Fabian on X-ray studies of accreting black holes, then held *Chandra* postdoctoral positions at the University of Maryland (with Andrew Wilson) and MIT (with Claude Canizares). I joined Bristol in 2007.
+:::
+:::
+
+## Research
+
+My research interests include numerical and observational astrophysics focused on accreting black holes. The numerical work involves the development of general relativistic models of the time-dependent spectra of accretion flows with different disc, corona, and spacetime geometries. The observational work concerns the analysis of X-ray data from accreting black holes using telescopes such as *XMM-Newton*, *Chandra*, and *NuSTAR*.
+
+Notes on relativistic accretion discs and related software are collected in the
+[project wiki](https://github.com/phajy/phajy.github.io/wiki).
+
+## Contact
+
+- Email: [Andy.Young@bristol.ac.uk](mailto:Andy.Young@bristol.ac.uk)
+- Post: HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8 1TL, UK
+- ORCID: [orcid.org/0000-0003-3626-9151](https://orcid.org/0000-0003-3626-9151)
+- University profile: [University of Bristol homepage](https://www.bristol.ac.uk/people/person/Andrew-Young-05884318-2412-4ab4-9433-ac586e893582/)

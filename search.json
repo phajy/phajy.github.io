@@ -1,0 +1,338 @@
+[
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Members of the black hole astrophysics group at Bristol, with links to their own pages where available."
+  },
+  {
+    "objectID": "people.html#current-group-members",
+    "href": "people.html#current-group-members",
+    "title": "People",
+    "section": "Current group members",
+    "text": "Current group members\n\nYimin Huang — PhD\nShashanth Sriramanathan — PhD; EU Doctoral Network\nElizabeth Morgan — PhD; co-supervised with colleague at Cardiff\nDarius Michienzi — PhD\nTom Higginson — PhD; co-supervisor\nGloria Raharimbolamena — PhD; University Scholarship\n\nSecondary supervisor for three other students, but in a more limited capacity."
+  },
+  {
+    "objectID": "people.html#former-group-members",
+    "href": "people.html#former-group-members",
+    "title": "People",
+    "section": "Former group members",
+    "text": "Former group members\n\nDr Fergus Baker — PhD → postdoc at Durham\nDr Isobel Romero-Shaw — Postdoc → Ernest Rutherford Fellow at Cardiff\nDr Robbie Webbe — PhD → postdoc at Toulouse\nDr Steff Hancock — PhD → mature student; working for Ministry of Defence\nBrian O’Mathuna — Masters → working in industry\nGeorge Presland — Masters → working in industry\nDr Gibwa Musoke — PhD → prize postdoc at University of Toronto\nDr Duncan Smith — PhD → mature student; retired\nTom MacCourt — Masters\nDr Poemwai Chainakun — PhD → faculty, Suranaree University, Thailand\nDr Emenike Nwaokoro — PhD (co-supervised) → faculty, Abia University, Nigeria\nMarina Papadopoulou — Masters (co-supervised) → working in industry\nDr Kian Momtahan — PhD → working in industry"
+  },
+  {
+    "objectID": "news/fergus-thesis-prize/index.html",
+    "href": "news/fergus-thesis-prize/index.html",
+    "title": "Fergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis",
+    "section": "",
+    "text": "Congratulations to Dr Fergus Baker on receiving the University of Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\nDr Fergus Baker\n\n\nFergus’s thesis, General relativistic effects in black hole X-ray coronal models, was supervised by me and Dr Sotiria Fotopoulou. His examiners highlighted the novel physical insights, mathematical and computational techniques, and the software package he released for the community.\nYou can read his thesis here: General relativistic effects in black hole X-ray coronal models. The source code is also there so you can see how the figures were made. The thesis is a work of art and an excellent introduction to the field. Well done Fergus, we’re very proud of you!\nFergus is now a postdoctoral researcher at Durham."
+  },
+  {
+    "objectID": "news/welcome-yimin-huang/index.html",
+    "href": "news/welcome-yimin-huang/index.html",
+    "title": "Welcome to Yimin Huang",
+    "section": "",
+    "text": "Welcome to Yimin Huang, who is joining the group as a PhD student.\n\n\n\nYimin Huang\n\n\nWe’re looking forward to working together on black hole accretion research at Bristol."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications listed on ORCID. This page is refreshed automatically from ORCID when the site is built."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nModeling Reflection Spectra of Super-Eddington X-Ray Sources\nSwarnim Shashank, Askar B. Abdikamalov, Honghui Liu, Temurbek Mirzaev, Jiachen Jiang, et al.\nAstrophysical Journal\nExtraction Method for Response Functions from X-Ray Light Curves of Active Galactic Nuclei by an Optimization Algorithm\nSanhanat Deesamutara, Tirawut Worrakitpoonpon, Poemwai Chainakun, Wasutep Luangtip, Jiachen Jiang, et al.\nThe Astrophysical Journal\nEvidence of mutually exclusive outflow forms from a black hole X-ray binary\nZuobin Zhang, Jiachen Jiang, Francesco Carotenuto, Honghui Liu, Cosimo Bambi, et al.\nNature Astronomy"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nRelativistic reflection within an extended hot plasma geometry\nA. D. Nekrasov, T. Dauser, J. A. García, D. J. Walton, C. M. Fromm, et al.\nAstronomy & Astrophysics\nNarrow-line Seyfert 1 galaxies beyond the local X-ray Universe: an X-ray spectral sample\nJiachen Jiang, Dominic J Walton, Luigi C Gallo, Andrew C Fabian, Dirk Grupe, et al.\nMonthly Notices of the Royal Astronomical Society\nHybrid corona and transient soft X-ray lags in Fairall 9\nK Khanthasombat, P Chainakun, W Luangtip, J Jiang, and A J Young\nMonthly Notices of the Royal Astronomical Society\nGRADUS.JL: spacetime-agnostic general relativistic ray-tracing for X-ray spectral modelling\nF J E Baker and A J Young\nMonthly Notices of the Royal Astronomical Society\nExtracting the X-Ray Reverberation Response Functions from the Active Galactic Nucleus Light Curves Using an Autoencoder\nSanhanat Deesamutara, Poemwai Chainakun, Tirawut Worrakitpoonpon, Kamonwan Khanthasombat, Wasutep Luangtip, et al.\nThe Astrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nVariable Ionized Disk Winds in MAXI J1803‑298 Revealed by NICER\nZhang, Zuobin, Bambi, Cosimo, and Liu, Honghui\nThe Astrophysical Journal\nTracing the evolving X-ray reverberation lags within an individual AGN light curve\nN Nakhonthong, P Chainakun, W Luangtip, and A J Young\nMonthly Notices of the Royal Astronomical Society\nThe origin of the X-ray emission from the non-starburst gas-rich luminous infrared galaxies Arp 302\nJiachen Jiang, William Baker, Andrew Young, and Luigi Gallo\nMonthly Notices of the Royal Astronomical Society\nThe effects of instrumental deadtime on NICER timing products\nRobbie Webbe and A J Young\nRAS Techniques and Instruments\nParameter dependency on the public X-ray reverberation models kynxilrev and kynrefrev\nK Khanthasombat, P Chainakun, and A J Young\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nThe Low-temperature Corona in ESO 511-G030 Revealed by NuSTAR and XMM-Newton\nZhang, Zuobin, Jiang, Jiachen, and Liu, Honghui\nThe Astrophysical Journal\nSearching for quasi-periodic eruptions using machine learning\nRobbie Webbe and A J Young\nRAS Techniques and Instruments\nRevealing the intrinsic X-ray reverberation lags in IRAS 13224−3809 through the Granger causality test\nP Chainakun, N Nakhonthong, W Luangtip, and A J Young\nMonthly Notices of the Royal Astronomical Society\nInvestigating scaling relations in X-ray reverberating AGN using symbolic regression\nP Thongkonsing, P Chainakun, T Worrakitpoonpon, and A J Young\nMonthly Notices of the Royal Astronomical Society\nHigh-density Reflection Spectroscopy of Black Hole X-Ray Binaries in the Hard State\nLiu, Honghui, Jiang, Jiachen, Zhang, Zuobin, Bambi, Cosimo, Fabian, Andrew C., et al.\nThe Astrophysical Journal\nExtended corona models of X-ray reverberation in the AGN 1H 0707−495 and IRAS 13224−3809\nS Hancock, A J Young, and P Chainakun\nMonthly Notices of the Royal Astronomical Society\nEvolution of the truncation radius in GX 339−4 from XMM–Newton spectral timing\nB O’Mathúna, A J Young, P Chainakun, and R Webbe\nMonthly Notices of the Royal Astronomical Society\nCoronal height constraint in IRAS 13224–3809 and 1H 0707–495 by the random forest regressor\nN Mankatwit, P Chainakun, W Luangtip, and A J Young\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nX-ray timing and spectral analysis of reverberating active galactic nuclei\nS Hancock, A J Young, and P Chainakun\nMonthly Notices of the Royal Astronomical Society\nVariability in a low-mass active galactic nucleus: oscillation or eruption?\nRobbie Webbe and A J Young\nMonthly Notices of the Royal Astronomical Society\nPredicting the black hole mass and correlations in X-ray reverberating AGNs using neural networks\nP Chainakun, I Fongkaew, S Hancock, and A J Young\nMonthly Notices of the Royal Astronomical Society\nMapping the X-Ray Corona Evolution of IRAS 13224-3809 with the Power Spectral Density\nPoemwai Chainakun, Wasuthep Luangtip, Jiachen Jiang, and Andrew J. Young\nThe Astrophysical Journal\nEffects of the refractive index of the X-ray corona on the emission lines in AGNs\nP Chainakun, A Watcharangkool, and A J Young\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nModelling the Multiwavelength Variability of Mrk 335 using Gaussian Processes\nRyan-Rhys Griffiths, Jiachen Jiang, Douglas J. K. Buisson, Dan R. Wilkins, Luigi C. Gallo, et al.\nAstrophysical Journal\nMachine learning application to detect light echoes around black holes\nP Chainakun, N Mankatwit, P Thongkonsing, and A J Young\nMonthly Notices of the Royal Astronomical Society\nGAMA/XXL: X-ray point sources in low-luminosity galaxies in the GAMA G02/XXL-N field\nE Nwaokoro, S Phillipps, A J Young, I Baldry, A Bongiorno, et al.\nMonthly Notices of the Royal Astronomical Society\nEvolution of the truncated disc and inner hot-flow of GX 339-4\nP. Chainakun, W. Luangtip, A. J. Young, P. Thongkonsing, and M. Srichok\nAstronomy and Astrophysics"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nNumerical simulations of colliding jets in an external wind: application to 3C 75\nG Musoke, A J Young, S M Molnar, and M Birkinshaw\nMonthly Notices of the Royal Astronomical Society\nHydrodynamic simulations of AGN jets: the impact of Riemann solvers and spatial reconstruction schemes on jet evolution\nG Musoke, A J Young, and M Birkinshaw\nMonthly Notices of the Royal Astronomical Society\nBlueshifted absorption lines from X-ray reflection in IRAS 13224-3809\nA. C. Fabian, C. S. Reynolds, J. Jiang, C. Pinto, L. C. Gallo, et al.\nMonthly Notices of the Royal Astronomical Society\nA dynamic black hole corona in an active galaxy through X-ray reverberation mapping\nWilliam N. Alston, Andrew C. Fabian, Erin Kara, Michael L. Parker, Michal Dovciak, et al.\nNature Astronomy, Advanced Online Publication"
+  },
+  {
+    "objectID": "publications.html#section-7",
+    "href": "publications.html#section-7",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nX-ray time lags in AGN: inverse-Compton scattering and spherical corona model\nP Chainakun, A Watcharangkool, A J Young, and S Hancock\nMonthly Notices of the Royal Astronomical Society\nThe remarkable X-ray variability of IRAS 13224-3809 - I. The variability process\nW. N. Alston, A. C. Fabian, D. J. K. Buisson, E. Kara, M. L. Parker, et al.\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-8",
+    "href": "publications.html#section-8",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nThe absence of a thin disc in M81*\nA J Young, I McHardy, D Emmanoulopoulos, and S Connolly\nMonthly Notices of the Royal Astronomical Society\nThe Ultra-fast Outflow of the Quasar PG 1211+143 as Viewed by Time-averaged Chandra Grating Spectroscopy\nDanehkar, Ashkbiz, Nowak, Michael A., Lee, Julia C., Kriss, Gerard A., Young, Andrew J., et al.\nThe Astrophysical Journal\nThe Cocoon Shocks of Cygnus A: Pressures and Their Implications for the Jets and Lobes\nSnios, Bradford, Nulsen, Paul E. J., Wise, Michael W., de Vries, Martijn, Birkinshaw, Mark, et al.\nThe Astrophysical Journal\nDiscovery of an Ultraviolet Counterpart to an Ultrafast X-Ray Outflow in the Quasar PG 1211+143\nKriss, Gerard A., Lee, Julia C., Danehkar, Ashkbiz, Nowak, Michael A., Fang, Taotao, et al.\nThe Astrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-9",
+    "href": "publications.html#section-9",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nInvestigating the X-ray time lags in PG 1244+026 using an extended corona model\nChainakun, P. and Young, A. J.\nMonthly Notices of the Royal Astronomical Society\nHydrodynamical Simulations of Colliding Jets: Modeling 3C 75\nMolnar, S. M., Schive, H. -Y., Birkinshaw, M., Chiueh, T., Musoke, G., et al.\nThe Astrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-10",
+    "href": "publications.html#section-10",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\nX-rays associated with the jet-cloud-interacting radio galaxy 3C 277.3 (Coma A)\nDiana M Worrall, Mark Birkinshaw, and Andrew J Young\nMonthly Notices of the Royal Astronomical Society\nX-ray Sources in Dwarf Galaxies in the Virgo Cluster and the Nearby Field\nMarina Papadopoulou, Steven Phillipps, and Andrew J Young\nMonthly Notices of the Royal Astronomical Society\nRelativistic X-ray reverberation modelling of the combined time-averaged and lag-energy spectra in AGN\nChainakun, P., Young, A. J., and Kara, E.\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-11",
+    "href": "publications.html#section-11",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nSpectral-timing modeling of the X-ray reverberation in Mrk 335\nChainakun, P. and Young, A.\nThe Extremes of Black Hole Accretion\nSimultaneous spectral and reverberation modelling of relativistic reflection in Mrk 335\nChainakun, P. and Young, A. J.\nMonthly Notices of the Royal Astronomical Society\nInteraction of Cygnus A with its environment\nNulsen, Paul E. J., Young, Andrew J., and Kraft, Ralph P.\nExtragalactic Jets from Every Angle"
+  },
+  {
+    "objectID": "publications.html#section-12",
+    "href": "publications.html#section-12",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\nX-ray sources in compact stellar systems in the Fornax Cluster\nS. Phillipps, Andrew J Young, M. J. Drinkwater, M. D. Gregg, and A. Karick\nMonthly Notices of the Royal Astronomical Society\nThe ionized absorber and nuclear environment of IRAS 13349+2438: multi-wavelength insights from coordinated Chandra HETGS, HST STIS, HET and Spitzer IRS\nLee, Julia C., Kriss, Gerard A., Chakravorty, Susmita, Rahoui, Farid, Young, Andrew J., et al.\nMonthly Notices of the Royal Astronomical Society\nThe Hot and Energetic Universe\nKirpal Nandra, Didier Barret, Xavier Barcons, Andy Fabian, Jan-Willem den Herder, et al.\narXiv\nLong XMM observation of the narrow-line Seyfert 1 galaxy IRAS 13224-3809: rapid variability, high spin and a soft lag\nFabian, A. C., Kara, E., Walton, D. J., Wilkins, D. R., Ross, R. R., et al.\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-13",
+    "href": "publications.html#section-13",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nThe jet-cloud interacting radio galaxy PKS B2152-699 - I. Structures revealed in new deep radio and X-ray observations\nD. M. Worrall, M. Birkinshaw, A. J. Young, K. Momtahan, R. A. E. Fosbury, et al.\nMonthly Notices of the Royal Astronomical Society\nIonized X-ray reverberation mapping: testing a light-bending model for 1H0707-495\nChainakun, P. and Young, A. J.\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-14",
+    "href": "publications.html#section-14",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\n\nA wide Chandra view of the core of the Perseus cluster\nA.C Fabian, J.C Sanders, S.W Allen, R.E.A Canning, E Churazov, et al.\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "publications.html#section-15",
+    "href": "publications.html#section-15",
+    "title": "Publications",
+    "section": "2010",
+    "text": "2010\n\nA multi-wavelength view of M81*.\nNowak, M., Markoff, S., and Young, A.\nMemorie della Societa Astronomica Italiana"
+  },
+  {
+    "objectID": "publications.html#section-16",
+    "href": "publications.html#section-16",
+    "title": "Publications",
+    "section": "2009",
+    "text": "2009\n\nX-ray observations of the galaxy cluster PKS0745-191: to the virial radius, and beyond\nM.R George, A.C Fabian, J.S Sander, A.J Young, and H.R Russell\nMonthly Notices of the Royal Astronomical Society\nRelativistically broadened iron line in the Suzaku observation of the neutron star X-ray binary 4U 1705-44\nRC Reis, AC Fabian, and AJ Young\nMonthly Notices of the Royal Astronomical Society: Letters\nProbing the Accretion Disk and Central Engine Structure of NGC 4258 with Suzaku and XMM-Newton Observations\nCS Reynolds, M Nowak, S Markoff, J Tueller, J Wilms, et al.\nAstrophysical Journal\nBroad line emission from iron K- and L-shell transitions in the active galaxy 1H0707-495\nA.C Fabian, A Zoghbi, R.R Ross, P Uttley, W Brandt, et al.\nNature\nA Variable Near-Infrared Counterpart to the Neutron-Star Low-Mass X-Ray Binary 4U 1705 - 440\nJ Homan, D Kaplan, M van den Berg, and AJ Young\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-17",
+    "href": "publications.html#section-17",
+    "title": "Publications",
+    "section": "2008",
+    "text": "2008\n\nXMM-Newton Detection of a Compton-thick AGN in the 1 Jy ULIRG/LINER F04103-2838\nTeng, Stacy H., Veilleux, S., Wilson, A. S., Young, A. J., Sanders, D. B., et al.\nThe Astrophysical Journal\nResults from an Extensive Simultaneous Broadband Campaign on the Underluminous Active Nucleus M81*: Further Evidence for Mass-scaling Accretion in Black Holes\nS Markoff, M Nowak, AJ Young, H Marshall, SR Canizares, et al.\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-18",
+    "href": "publications.html#section-18",
+    "title": "Publications",
+    "section": "2007",
+    "text": "2007\n\nLine Variability in the High-Resolution X-Ray Spectrum of MCG -6-30-15\nGibson, Robert R., Canizares, Claude R., Marshall, Herman L., Young, Andrew J., and Lee, Julia C.\nThe Astrophysical Journal\nHigh Resolution X-ray Spectroscopy of a Low-Luminosity Active Galactic Nucleus: The Structure and Dynamics of M81*\nAJ Young, MA Nowak, S Markoff, HL Marshall, and CR Canizares\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-19",
+    "href": "publications.html#section-19",
+    "title": "Publications",
+    "section": "2006",
+    "text": "2006\n\nThe answer is blowing in the wind: simulating the interaction of jets with dynamic cluster atmospheres\nHeinz, S., Brüggen, M., Young, A., and Levesque, E.\nMonthly Notices of the Royal Astronomical Society\nThe Cavity of Cygnus A\nWilson, A. S., Smith, David A., and Young, A. J.\nThe Astrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-20",
+    "href": "publications.html#section-20",
+    "title": "Publications",
+    "section": "2005",
+    "text": "2005\n\nX-Ray Reflection from Inhomogeneous Accretion Disks. II. Emission-Line Variability and Implications for Reverberation Mapping\nBallantyne, D. R., Turner, N. J., and Young, A. J.\nThe Astrophysical Journal\nThe Halo, Hot Spots, and Jet/Cloud Interaction of PKS 2153-69\nYoung, A. J., Wilson, A. S., Tingay, S. J., and Heinz, S.\nThe Astrophysical Journal\nA Chandra X-Ray Survey of Ultraluminous Infrared Galaxies\nTeng, Stacy H., Wilson, A. S., Veilleux, S., Young, A. J., Sanders, D. B., et al.\nThe Astrophysical Journal\nA Chandra HETGS Spectral Study of the Iron K Bandpass in MCG -6-30-15: A Narrow View of the Broad Iron Line\nAJ Young, JC Lee, AC Fabian, CS Reynolds, RR Gibson, et al.\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-21",
+    "href": "publications.html#section-21",
+    "title": "Publications",
+    "section": "2004",
+    "text": "2004\n\nThe hard X-ray spectrum of the Seyfert galaxy IRAS 18325–5926\nK. Iwasawa, J. C. Lee, A. J. Young, C. S. Reynolds, and A. C. Fabian\nMonthly Notices of the Royal Astronomical Society\nChandra X-Ray Observations of NGC 4258\nA. J. Young and A. S. Wilson\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-22",
+    "href": "publications.html#section-22",
+    "title": "Publications",
+    "section": "2003",
+    "text": "2003\n\nX-ray reverberation studies of AGN\nAndrew J. Young\nAdvances in Space Research\nThe X-ray nebula around the type 2 Seyfert galaxy NGC 4388\nK. Iwasawa, A. S. Wilson, A. C. Fabian, and A. J. Young\nMonthly Notices of the Royal Astronomical Society\nAccretion onto the Supermassive Black Hole in M87\nTiziana Di Matteo, Steven W. Allen, Andrew C. Fabian, Andrew S. Wilson, and Andrew J. Young\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-23",
+    "href": "publications.html#section-23",
+    "title": "Publications",
+    "section": "2002",
+    "text": "2002\n\nChandra Imaging of the X-Ray Core of the Virgo Cluster\nA. J. Young, A. S. Wilson, and C. G. Mundell\nAstrophysical Journal\nA long hard look at MCG-6-30-15 with XMM-Newton\nA. C. Fabian, S. Vaughan, K. Nandra, K. Iwasawa, D. R. Ballantyne, et al.\nMonthly Notices of the Royal Astronomical Society\nA Chandra X-Ray Study of Cygnus A. III. The Cluster of Galaxies\nDavid A. Smith, Andrew S. Wilson, Keith A. Arnaud, Yuichi Terashima, and Andrew J. Young\nAstrophysical Journal\nA Chandra X-Ray Study of Cygnus A. II. The Nucleus\nAJ Young, AS Wilson, Y Terashima, KA Arnaud, and DA Smith\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-24",
+    "href": "publications.html#section-24",
+    "title": "Publications",
+    "section": "2001",
+    "text": "2001\n\nChandra X-Ray Observations of Pictor A\nA. S. Wilson, A. J. Young, and P. L. Shopbell\nAstrophysical Journal\nBeppoSAX spectroscopy of MR 2251-178: A test for ionized reflection in radio quiet QSOs\nOrr, A., Barr, P., Guainazzi, M., Parmar, A. N., and Young, A. J.\nAstronomy and Astrophysics\nA complete relativistic ionized accretion disc in Cygnus X-1\nYoung, A. J., Fabian, A. C., Ross, R. R., and Tanaka, Y.\nMonthly Notices of the Royal Astronomical Society\nA Chandra X-ray study of the NGC 1068. I: Observations of extended emission\nAJ Young, AS Wilson, and PL Shopbell\nAstrophysical Journal"
+  },
+  {
+    "objectID": "publications.html#section-25",
+    "href": "publications.html#section-25",
+    "title": "Publications",
+    "section": "2000",
+    "text": "2000\n\nIron Line Reverberation Mapping with Constellation-X\nA. J. Young and C. S. Reynolds\nAstrophysical Journal\nChandra Observations of Cygnus A\nA. S. Wilson, A. J. Young, and P. L. Shopbell\nAstrophysical Journal\nBroad Iron Lines in Active Galactic Nuclei\nA. C. Fabian, K. Iwasawa, C. S. Reynolds, and A. J. Young\nPublications of the Astronomical Society of the Pacific"
+  },
+  {
+    "objectID": "publications.html#section-26",
+    "href": "publications.html#section-26",
+    "title": "Publications",
+    "section": "1999",
+    "text": "1999\n\nX-ray reflection spectra from ionized slabs\nR. R. Ross, A. C. Fabian, and A. J. Young\nMonthly Notices of the Royal Astronomical Society\nX-ray reflection and reverberation around accreting black holes\nYoung, Andrew James\nPh.D. Thesis\nX-Ray Iron Line Reverberation from Black Hole Accretion Disks\nChristopher S. Reynolds, Andrew J. Young, Mitchell C. Begelman, and Andrew C. Fabian\nAstrophysical Journal\nVariation of the broad X-ray iron line inMCG-6-30-15 during a flare\nK. Iwasawa, A. C. Fabian, A. J. Young, H. Inoue, and C. Matsumoto\nMonthly Notices of the Royal Astronomical Society\nThe optical variability of the narrow-line Seyfert 1 galaxy IRAS 13224-3809\nA. J. Young, C. S. Crawford, A. C. Fabian, W. N. Brandt, and P. T. O’Brien\nMonthly Notices of the Royal Astronomical Society\nThe broad Fe K line in MCG-6-30-15: results from the second ASCA long-look\nK. Iwasawa, A. C. Fabian, and A. J. Young\nAstronomische Nachrichten"
+  },
+  {
+    "objectID": "publications.html#section-27",
+    "href": "publications.html#section-27",
+    "title": "Publications",
+    "section": "1998",
+    "text": "1998\n\nIron line profiles including emission from within the innermost stable orbit of a black hole accretion disc\nA. J. Young, R. R. Ross, and A. C. Fabian\nMonthly Notices of the Royal Astronomical Society"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Andrew Young",
+    "section": "Latest news",
+    "text": "Latest news\n\n\n\n\n\nFergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis\n\n\nFormer PhD student Dr Fergus Baker has been awarded Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\nWelcome to Yimin Huang\n\n\nYimin Huang joins the group as a PhD student.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\n\n\nQuarto lecture notes\n\n\nHow I prepare lecture notes in HTML and PDF with Quarto.\n\n\n\n\n\nMay 4, 2024\n\n\n\n\n\nNo matching items\n\nAll news →"
+  },
+  {
+    "objectID": "index.html#group",
+    "href": "index.html#group",
+    "title": "Andrew Young",
+    "section": "Group",
+    "text": "Group\nCurrent members:\n\nYimin Huang — PhD\nShashanth Sriramanathan — PhD; EU Doctoral Network\nElizabeth Morgan — PhD; co-supervised with colleague at Cardiff\nDarius Michienzi — PhD\nTom Higginson — PhD; co-supervisor\n\nPeople →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Professor in the School of Physics at the University of Bristol. I completed my PhD at Cambridge with Andy Fabian on X-ray studies of accreting black holes, then held Chandra postdoctoral positions at the University of Maryland (with Andrew Wilson) and MIT (with Claude Canizares). I joined Bristol in 2007."
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "About",
+    "section": "Research",
+    "text": "Research\nMy research interests include numerical and observational astrophysics focused on accreting black holes. The numerical work involves the development of general relativistic models of the time-dependent spectra of accretion flows with different disc, corona, and spacetime geometries. The observational work concerns the analysis of X-ray data from accreting black holes using telescopes such as XMM-Newton, Chandra, and NuSTAR.\nNotes on relativistic accretion discs and related software are collected in the project wiki."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: Andy.Young at bristol dot ac dot uk\nPost: HH Wills Physics Laboratory, Tyndall Avenue, Bristol, BS8 1TL, UK\nORCID: orcid.org/0000-0003-3626-9151\nUniversity profile: University of Bristol homepage"
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Fergus Baker wins Vice-Chancellor’s Prize for Best Doctoral Thesis\n\n\nFormer PhD student Dr Fergus Baker has been awarded Bristol’s Vice-Chancellor’s Prize for Best Doctoral Thesis.\n\n\n\n\n\nOct 16, 2026\n\n\n\n\n\n\n\nWelcome to Yimin Huang\n\n\nYimin Huang joins the group as a PhD student.\n\n\n\n\n\nSep 1, 2026\n\n\n\n\n\n\n\nQuarto lecture notes\n\n\nHow I prepare lecture notes in HTML and PDF with Quarto.\n\n\n\n\n\nMay 4, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html",
+    "href": "news/quarto-lecture-notes/index.html",
+    "title": "Quarto lecture notes",
+    "section": "",
+    "text": "Several people have asked how I prepare lecture notes in HTML and PDF. Here’s an overview of the workflow. This is slightly different from how I do it day to day because I use a “book” project rather than a “website” project, but the principles are the same.\nHere’s an example site."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#set-up-an-empty-github-repository",
+    "href": "news/quarto-lecture-notes/index.html#set-up-an-empty-github-repository",
+    "title": "Quarto lecture notes",
+    "section": "Set up an empty GitHub repository",
+    "text": "Set up an empty GitHub repository\nStart with a blank repository containing a README.md and a LICENSE. I’ve used the MIT license. Alternatively, create the Quarto project first and push everything afterwards.\nThe example repository is andys-quarto-example."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#install-quarto",
+    "href": "news/quarto-lecture-notes/index.html#install-quarto",
+    "title": "Quarto lecture notes",
+    "section": "Install Quarto",
+    "text": "Install Quarto\nFollow the Quarto get-started instructions. On a Mac with Homebrew: brew install --cask quarto."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#editor-setup",
+    "href": "news/quarto-lecture-notes/index.html#editor-setup",
+    "title": "Quarto lecture notes",
+    "section": "Editor setup",
+    "text": "Editor setup\nInstall the Quarto VS Code / Cursor extension."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#start-a-quarto-website-project",
+    "href": "news/quarto-lecture-notes/index.html#start-a-quarto-website-project",
+    "title": "Quarto lecture notes",
+    "section": "Start a Quarto website project",
+    "text": "Start a Quarto website project\nYou can use “Quarto: Create New Project” and choose “Website Project”, or add a few files by hand:\n\n_quarto.yml — project configuration\nindex.md — home page\nabout.md — another page\nstyles.css — optional styling\n\nSee the files in the example repository."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#publishing",
+    "href": "news/quarto-lecture-notes/index.html#publishing",
+    "title": "Quarto lecture notes",
+    "section": "Publishing",
+    "text": "Publishing\nFollow the Quarto GitHub Pages instructions. For a simple start you can render to docs/ and deploy from that folder; a GitHub Action is usually better for keeping the site up to date automatically.\nPublished example: https://phajy.github.io/andys-quarto-example/."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#add-content",
+    "href": "news/quarto-lecture-notes/index.html#add-content",
+    "title": "Quarto lecture notes",
+    "section": "Add content",
+    "text": "Add content\nHeadings, figures, and mathematics follow standard Quarto Markdown. For example:\n## Parallel-transport and geodesics\n\n![Parallel transport of a vector.](parallel_transport.png){width=300 #fig-parallel-transport}\n\nWe can use parallel transport to construct *geodesics*:\n\n$$\n\\begin{aligned}\n    \\pmb{\\nabla}_{\\vec u} {\\vec u} &= 0\n\\end{aligned}\n$$\nMore in the Quarto Markdown documentation."
+  },
+  {
+    "objectID": "news/quarto-lecture-notes/index.html#questions",
+    "href": "news/quarto-lecture-notes/index.html#questions",
+    "title": "Quarto lecture notes",
+    "section": "Questions",
+    "text": "Questions\nIf you have tips or questions, please get in touch."
+  }
+]

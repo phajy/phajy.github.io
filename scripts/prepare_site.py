@@ -92,13 +92,24 @@ def person_line(person: dict) -> str:
     return "".join(bits) if note else bits[0]
 
 
+def first_name_key(person: dict) -> str:
+    """Sort key: given name, ignoring a leading title like Dr."""
+    parts = person.get("name", "").split()
+    if parts and parts[0].rstrip(".").lower() in {"dr", "prof", "professor"}:
+        parts = parts[1:]
+    return (parts[0] if parts else "").casefold()
+
+
 def write_people() -> None:
     people = load_yaml_people(DATA / "people.yml")
+    current = sorted(people.get("current", []), key=first_name_key)
+    # Former members stay in YAML order (reverse chronological).
+    former = people.get("former", [])
     lines = [
         "## Current group members",
         "",
     ]
-    for person in people.get("current", []):
+    for person in current:
         lines.append(person_line(person))
     lines.extend(
         [
@@ -110,13 +121,13 @@ def write_people() -> None:
             "",
         ]
     )
-    for person in people.get("former", []):
+    for person in former:
         lines.append(person_line(person))
     lines.append("")
     (PARTIALS / "people-list.md").write_text("\n".join(lines), encoding="utf-8")
 
     teaser = ["Current members:", ""]
-    for person in people.get("current", [])[:5]:
+    for person in current:
         name = person["name"]
         url = person.get("url")
         role = person.get("role", "")

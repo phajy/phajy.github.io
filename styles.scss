@@ -17,6 +17,7 @@ $footer-fg: #5a6570;
   --paper: #f4f7fb;
   --line: rgba(16, 32, 51, 0.12);
   --glow: rgba(15, 92, 110, 0.2);
+  --hero-ink: #04080e;
 }
 
 html {
@@ -105,13 +106,19 @@ main.content {
   display: flex;
   align-items: flex-end;
   color: #f7fafc;
-  background: #04080e;
+  background: var(--hero-ink);
 }
 
-.hero > p:has(.hero-image) {
+.hero-media {
   position: absolute;
   inset: 0;
   margin: 0;
+  z-index: 0;
+}
+
+.hero-media > p {
+  margin: 0;
+  height: 100%;
 }
 
 .hero-image {
@@ -139,6 +146,7 @@ main.content {
   content: "";
   position: absolute;
   inset: 0;
+  z-index: 1;
   background:
     linear-gradient(90deg, rgba(4, 8, 14, 0.7) 0%, rgba(4, 8, 14, 0.22) 46%, rgba(4, 8, 14, 0.18) 100%),
     linear-gradient(180deg, rgba(4, 8, 14, 0.35) 0%, transparent 40%, rgba(4, 8, 14, 0.78) 100%);
@@ -206,6 +214,7 @@ main.content {
   flex-wrap: wrap;
   gap: 0.75rem;
   margin: 0;
+  width: 100%;
 }
 
 .hero-actions a {
@@ -352,17 +361,94 @@ body {
   --bs-body-color: var(--ink);
 }
 
+/* Stacked mobile hero: full Pictor A strip, then text on solid panel */
 @media (max-width: 900px) {
+  body {
+    background-attachment: scroll;
+  }
+
   .hero {
-    height: clamp(18rem, 52vw, 28rem);
+    height: auto;
+    min-height: 0;
+    flex-direction: column;
+    align-items: stretch;
+    overflow: visible;
+  }
+
+  .hero::after {
+    display: none;
+  }
+
+  .hero-media {
+    position: relative;
+    inset: auto;
+    width: auto;
+    margin: 0.55rem 0.75rem 0;
+    background: var(--hero-ink);
+  }
+
+  .hero-media > p {
+    height: auto;
+  }
+
+  .hero-image {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3000 / 903;
+    object-fit: contain;
+    object-position: center center;
+    display: block;
   }
 
   .hero-inner {
-    padding: 4.25rem 1.15rem 2.5rem;
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding: 1.35rem 0.75rem 1.35rem;
+    background: var(--hero-ink);
+  }
+
+  .hero-kicker {
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.65rem;
   }
 
   .hero-inner h1 {
-    font-size: clamp(2.4rem, 11vw, 3.4rem);
+    font-size: clamp(2.35rem, 11vw, 3.1rem);
+    max-width: none;
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-lead {
+    font-size: 1.02rem;
+    line-height: 1.5;
+    margin-bottom: 1.15rem;
+    max-width: none;
+  }
+
+  .hero-actions p {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.65rem;
+  }
+
+  .hero-actions a {
+    width: 100%;
+    padding: 0.75rem 0.85rem;
+    font-size: 0.95rem;
+  }
+
+  .hero-credit {
+    margin-top: 1rem;
+    max-width: none;
+    font-size: 0.68rem;
+  }
+
+  .home-below {
+    padding: 1.75rem 0.75rem 2.5rem;
   }
 
   .home-panels,
@@ -371,9 +457,24 @@ body {
     grid-template-columns: 1fr;
   }
 
+  .intro-row {
+    justify-items: start;
+    gap: 1rem;
+  }
+
   .portrait-chip,
   .about-portrait {
-    width: 6.5rem;
-    height: 6.5rem;
+    width: 5.75rem;
+    height: 5.75rem;
+  }
+
+  .home-panels {
+    gap: 1.75rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .hero-actions p {
+    grid-template-columns: 1fr;
   }
 }

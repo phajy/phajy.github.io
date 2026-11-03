@@ -26,10 +26,13 @@ listing:
 ---
 
 ::: {.hero}
+::: {.hero-media}
 
 ```{=html}
 <img src="assets/images/pictor_a_xray.jpg" class="hero-image" alt="Chandra X-ray image of the radio galaxy Pictor A, showing a jet stretching from the nucleus to a distant hot spot">
 ```
+
+:::
 
 ::: {.hero-inner}
 ::: {.hero-kicker}
@@ -47,7 +50,7 @@ relativistic spectral models to X-ray observations.
 [About](about.qmd){.primary}
 [Publications](publications.qmd){.secondary}
 [Group](people.qmd){.secondary}
-[ORCID](https://orcid.org/0000-0003-3626-9151){.secondary}
+[News](news/index.qmd){.secondary}
 :::
 
 ::: {.hero-credit}

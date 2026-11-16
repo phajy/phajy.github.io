@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/news/index.html",
     "items": [
       "/news/fergus-thesis-prize/index.html",
       "/news/welcome-yimin-huang/index.html",
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
       "/news/fergus-thesis-prize/index.html",
       "/news/welcome-yimin-huang/index.html",
